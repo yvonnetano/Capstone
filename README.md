@@ -10,13 +10,14 @@ This capstone project delivers a machine learning solution that predicts laptop 
 •	Insights and Evaluation: Visual tools such as scatter plots help compare predicted prices against actual data.
 How to Get Started
 1.	Click the Binder link below.
-2.	Select “Restart the kernel and run all cells” to initialize the notebook. Use the !pip install command to download the required libraries if a message "ModuleNotFoundError" displays after clicking the Restart and run all cells button.
-3.	Libraries to download: !pip install pandas numpy scipy scikit-learn matplotlib seaborn ipywidgets
-4.	Reload the page after all the libraries are downloaded and click the “Restart the kernel and run all cells”.
-5.	Scroll to the Futuristic Laptop Price Predictor dashboard section.
-6.	Click the Technical Specs tab and use the sliders to select specs.
-7.	Click the Brand/OS/Type tab and use the dropdowns to select options.
-8.	Click the Predict Price Now button to view price predictions.
+2.	Select “Restart the kernel and run all cells” to initialize the notebook.
+3.	All the necessary libraries are already included in the WGUC964_Capstone_Project.ipynb file. If you see a “ModuleNotFoundError” after clicking "Restart and Run All Cells", simply scroll to the cell with the missing library and press Shift + Enter to run it manually.
+4.	Install required libraries: !pip install pandas numpy scipy scikit-learn matplotlib seaborn ipywidgets
+5.	Reload the page after all the libraries are downloaded and click the “Restart the kernel and run all cells”.
+6.	Scroll to the Futuristic Laptop Price Predictor dashboard section.
+7.	Click the Technical Specs tab and use the sliders to select specs.
+8.	Click the Brand/OS/Type tab and use the dropdowns to select options.
+9.	Click the Predict Price Now button to view price predictions.
 Repository Contents
 •	WGUC964_Capstone_Project.ipynb –This is the main Jupyter notebook containing model training, UI controls, and predictions.
 •	laptop_price.csv – This is the dataset used for training and testing the model.
