@@ -22,5 +22,5 @@ Repository Contents
 •	laptop_price.csv – This is the dataset used for training and testing the model.
 
 Binder link:
-https://mybinder.org/v2/gh/yvonnetano/Capstone/5e0c846ca76be5dfd003cb4b596bd53189d21774?urlpath=lab%2Ftree%2FWGUC964_Capstone_Project.ipynb
+https://mybinder.org/v2/gh/yvonnetano/Capstone/8cdcd3dbd26446f9ac80cf4028baf2da76ef3725?urlpath=lab%2Ftree%2FWGUC964_Capstone_Project.ipynb
 
