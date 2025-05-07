@@ -9,7 +9,7 @@ This capstone project delivers a machine learning solution that predicts laptop 
 •	Web Accessibility: No setup required simply open the notebook in Binder and start predicting.
 •	Insights and Evaluation: Visual tools such as scatter plots help compare predicted prices against actual data.
 How to Get Started
-1.	Open the Binder link above.
+1.	Open the Binder link below.
 2.	Select “Restart the kernel and run all cells” to initialize the notebook.
 3.	Scroll to the Futuristic Laptop Price Predictor dashboard section.
 4.	Click the Technical Specs tab and use the sliders to select specs.
