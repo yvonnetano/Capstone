@@ -19,4 +19,6 @@ Repository Contents
 •	WGUC964_Capstone_Project.ipynb –This is the main Jupyter notebook containing model training, UI controls, and predictions.
 •	laptop_price.csv – This is the dataset used for training and testing the model.
 
-Binder link: 
+Binder link:
+https://mybinder.org/v2/gh/yvonnetano/Capstone/5e0c846ca76be5dfd003cb4b596bd53189d21774?urlpath=lab%2Ftree%2FWGUC964_Capstone_Project.ipynb
+
