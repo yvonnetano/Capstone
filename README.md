@@ -12,7 +12,7 @@ How to Get Started
 1.	Click the Binder link below.
 2.	Select “Restart the kernel and run all cells” to initialize the notebook. Use the !pip install command to download the required libraries if a message "ModuleNotFoundError" displays after clicking the Restart and run all cells button.
 3.	Libraries to download: !pip install pandas numpy scipy scikit-learn matplotlib seaborn ipywidgets
-4.	Reload the page after all the libraries are downloaded.
+4.	Reload the page after all the libraries are downloaded and click the “Restart the kernel and run all cells”.
 5.	Scroll to the Futuristic Laptop Price Predictor dashboard section.
 6.	Click the Technical Specs tab and use the sliders to select specs.
 7.	Click the Brand/OS/Type tab and use the dropdowns to select options.
