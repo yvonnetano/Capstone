@@ -8,7 +8,7 @@ ipywidgets==8.7.1
 matplotlib==3.8.0
 
 # numpy: Supports numerical operations and efficient array handling, essential for data processing and modeling.
-numpy==1.26.0
+numpy==2.2.5
 
 # pandas: Used for data manipulation and analysis, especially DataFrame handling of the laptop dataset.
 pandas==2.1.1
